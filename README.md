@@ -26,6 +26,8 @@ In this Exploratory Data Analysis (EDA) project, I analyzed data from popular on
 - Creating bar charts and interactive sunburst visualizations
 - Structuring a full data project for sharing
 
+- Link to Kaggle:https://www.kaggle.com/code/itsmesaikrishna/eda-on-streaming-platforms
+
 ---
 
 
